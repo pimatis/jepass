@@ -26,7 +26,7 @@ cd jepass
 
 Run the application:
 ```bash
-`./jeepass` or `go run main.go`
+`./jepass` or `go run main.go`
 ```
 
 ### Available Operations
